@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ice 🧊</h1>
 <h3 align="center">Owner West XI ⚫🔴</h3>
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/949398677422735421)](https://discord.com/users/949398677422735421)
+[![Discord Presence](https://lanyard.cnrad.dev/api/949398677422735421:color3c090a)](https://discord.com/users/949398677422735421)
 
 - Working on [West XI (WX)⚫🔴](https://discord.gg/eEphRqy3b6)
 
