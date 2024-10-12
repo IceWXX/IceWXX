@@ -1,3 +1,2 @@
 ## Hi there 👋
-
-![Discord](https://img.shields.io/badge/Discord-949398677422735421?style=flat&logo=discord&logoColor=white)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:949398677422735421)
