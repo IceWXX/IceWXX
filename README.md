@@ -3,7 +3,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/949398677422735421)](https://discord.com/users/949398677422735421)
 
-- Working on [West XI (WX)⚫🔴](https://discord.gg/eEphRqy3b6)
+- Working on [West XI (WX)⚫🔴](https://discord.gg/eEphRqy3b6) & [WindMC Network 💨 ](https://discord.gg/wcPgYA66xN)
 
 - I’m currently learning **GoLang 🔵**
 
